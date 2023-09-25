@@ -1,0 +1,9 @@
+url: 'https://test-stand.gb.ru/gateway/login'
+address: 'https://test-stand.gb.ru/api/posts'
+address_post: 'https://test-stand.gb.ru/gateway/posts'
+
+login: 'kuk'
+pswd: '6b49b9d1da'
+tlt: 'Привет'
+desc: 'Это_блог_QA'
+text: 'Однажды_я_решила_протестировать_собаку'
