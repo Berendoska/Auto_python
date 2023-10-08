@@ -1,0 +1,20 @@
+address: https://test-stand.gb.ru
+browser: Chrome
+sleep_time: 1
+
+login: 'kuk'
+pswd: '6b49b9d1da'
+
+
+title: Bilbo, you are better than P
+description: Help
+content: Us
+
+name: Garry
+email: frodo@gmail.ru
+msg: Help us, please
+
+url: https://test-stand.gb.ru/gateway/login
+api_address: https://test-stand.gb.ru/api/posts
+address_post: https://test-stand.gb.ru/gateway/posts
+not_me_title: qwerty
